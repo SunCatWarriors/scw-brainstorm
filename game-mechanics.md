@@ -5,7 +5,7 @@ Suncat Warriors
 Goals
 -----
 
-Fast, crazy, and brutal like Samurai Gunn.  The visual theme is 1600-1875 Japan, mostly, with some Spain from the same era as well.  Plus tiny chunks of pop culture from the last 75 years.
+Fast, crazy, and brutal like Samurai Gunn.
 
 Important(?) Decisions
 ----------------------
@@ -72,3 +72,13 @@ User Interface
 --------------
 
 Rounds won are indicated by claw icons.  Matches won are indicated by match icons.  I want them to be reminiscent of the NES exclamation points if that's possible.
+
+Graphics
+--------
+
+The visual theme is 1600-1875 Japan, mostly, with some Spain from the same era as well.  Plus tiny chunks of pop culture from the last 75 years.
+
+Names
+-----
+
+A Spanish cat is a *SolGato* or a *gato invitado*.
