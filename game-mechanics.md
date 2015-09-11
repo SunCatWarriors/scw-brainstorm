@@ -5,27 +5,29 @@ Suncat Warriors
 Goals
 -----
 
-Fast, crazy, and brutal like Samurai Gunn.
+Fast, crazy, and brutal like Samurai Gunn.  Maybe a little of the multi-path strategery of Killer Queen.
 
 Important(?) Decisions
 ----------------------
 
 * Is health binary, or are there HP?
+* Unity or other?
+* LAN play?
 
 Controls
 --------
 
-Jump, Melee, Ranged Button, Ranged Stick
+Movement Stick, Jump, Melee, Ranged Button, Ranged Stick
 
 Dodge?  Block?
 
-The ranged stick is used by pointing it in the direction of your target and letting go.  When playing cuoch coöp, Show Targeting mode (a per-player setting) will draw a thin line along the projectile's path.  In any situation, the character will animate to indicate aiming.
+The ranged stick is used by pointing it in the direction of your target and letting go.  When playing couch coöp, Show Targeting mode (a per-player setting) will draw a thin line along the projectile's path.  In any situation, the character will animate to indicate aiming.
+
+The ranged button will send a projectile in the direction that the movement stick is held.  If the stick is centered, it will fire the direction that the player is facing.
 
 Attacks and Damage
 ------------------
 
-* 3 hit points
-* statue form has only 1 HP
 * equipment can be damaged, but is repaired for free at the end of the [match or round].
 
 Fortune
@@ -53,10 +55,14 @@ Forms
 -----
 
 * cat
+  * 3 HP
   * different clothing appropriate to wealthy Edo-era houses
-* statue
-  * gain 1 Fortune per second, or
-  * gain 2 Fortune when transforming
+* statue (possibility 1)
+  * 1 HP
+  * gain 1 Fortune per second
+* statue (possibility 2)
+  * 7 HP
+  * gain 2 Fortune when transformation complete
 * super
   * calico coloration, cool other stuff
 * final
@@ -65,8 +71,8 @@ Forms
 Stages
 ------
 
-* darkness
-
+* Darkness
+* Local LAN mode would enable some very interesting possibilities involving secret information
 
 User Interface
 --------------
