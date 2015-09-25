@@ -50,6 +50,9 @@ Specials
   * ??
 * transform to ______
   * half circle, melee
+* the dot
+  * ??
+  * all other players chase the dot, while you are free to slaughter them
 
 Forms
 -----
