@@ -17,7 +17,7 @@ Important(?) Decisions
 Controls
 --------
 
-Movement Stick, Jump, Melee, Ranged Button, Ranged Stick
+Movement Stick, Jump, Melée, Ranged Button, Ranged Stick
 
 Dodge?  Block?
 
@@ -38,7 +38,8 @@ Fortune are the coins that power your attacks and abilites.
 Attacks
 -------
 
-* melee: sword?
+* melée: sword
+* close melée: claws
 * ranged: thrown Fortune
 
 Specials
@@ -49,13 +50,16 @@ Specials
 * transform to statue
   * ??
 * transform to ______
-  * half circle, melee
+  * half circle, melée
 * the dot
   * ??
   * all other players chase the dot, while you are free to slaughter them
+    * possible dot movements customized to each stage
 
 Forms
 -----
+
+Every form should have a good name, even the base cats.
 
 * cat
   * 3 HP
@@ -69,7 +73,19 @@ Forms
 * super
   * calico coloration, cool other stuff
 * final
+  * animated gold statue
   * totally saiyan
+
+Form Names
+----------
+
+Roughly equal numbers of masculine and feminine names, plus any number of neuter.
+
+* Bananas Foster
+* Qbert P. Oberhammer
+* Marco Rubio
+* Roquefort Bourgenoise
+* Amelia Earnick
 
 Stages
 ------
